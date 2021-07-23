@@ -25,11 +25,11 @@
     ".NETCoreApp,Version=v5.0": {
       "API/1.0.0": {
         "dependencies": {
+          "Core": "1.0.0",
+          "Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "5.0.1",
           "Microsoft.AspNetCore.Authentication.OpenIdConnect": "5.0.1",
-          "Microsoft.EntityFrameworkCore": "5.0.1",
           "Microsoft.EntityFrameworkCore.Design": "5.0.1",
-          "Microsoft.EntityFrameworkCore.Sqlite": "5.0.1",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.1",
           "Swashbuckle.AspNetCore": "5.6.3",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
@@ -820,6 +820,27 @@
       },
       "System.Memory/4.5.3": {},
       "System.Security.Cryptography.Cng/4.5.0": {},
+      "Core/1.0.0": {
+        "runtime": {
+          "Core.dll": {}
+        },
+        "compile": {
+          "Core.dll": {}
+        }
+      },
+      "Infrastructure/1.0.0": {
+        "dependencies": {
+          "Core": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.1",
+          "Microsoft.EntityFrameworkCore.Sqlite": "5.0.1"
+        },
+        "runtime": {
+          "Infrastructure.dll": {}
+        },
+        "compile": {
+          "Infrastructure.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
         "compile": {
           "Microsoft.AspNetCore.Antiforgery.dll": {}
@@ -2834,6 +2855,16 @@
       "sha512": "sha512-WG3r7EyjUe9CMPFSs6bty5doUqT+q9pbI80hlNzo2SkPkZ4VTuZkGWjpp77JB8+uaL4DFPRdBsAY+DX3dBK92A==",
       "path": "system.security.cryptography.cng/4.5.0",
       "hashPath": "system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    },
+    "Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
       "type": "referenceassembly",

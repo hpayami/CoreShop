@@ -1,0 +1,15 @@
+E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\Infrastructure\bin\Debug\net5.0\Core.dll
+E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\Infrastructure\bin\Debug\net5.0\Core.pdb
+E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
+E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb

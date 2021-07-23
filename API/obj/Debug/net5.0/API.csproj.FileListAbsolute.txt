@@ -62,3 +62,7 @@ E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Cor
 E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
 E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\API\bin\Debug\net5.0\Humanizer.dll
 E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\API\bin\Debug\net5.0\Core.dll
+E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\API\bin\Debug\net5.0\Infrastructure.dll
+E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\API\bin\Debug\net5.0\Infrastructure.pdb
+E:\Learning\C#\ASP .Net\GIT\Udemy_Learn_to_build_an_e-commerce_app_with_.Net_Core_and_Angular_2020-5_Fixed2\CoreShop\API\bin\Debug\net5.0\Core.pdb
